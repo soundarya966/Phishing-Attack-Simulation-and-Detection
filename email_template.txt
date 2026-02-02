@@ -1,0 +1,14 @@
+Subject: ⚠️ Urgent: Account Verification Required
+
+Dear User,
+
+We detected unusual activity on your account.
+To avoid temporary suspension, please verify your account immediately.
+
+Click the link below to secure your account:
+http://example-login-verification.com
+
+Failure to verify within 24 hours may result in limited access.
+
+Thank you,
+Security Team
