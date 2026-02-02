@@ -32,7 +32,7 @@ The objective of this task is to understand how phishing attacks work, simulate 
 
 ---
 
-## Disclaimer
+## ⚠️ Disclaimer
 This project is created **strictly for educational and awareness purposes**.  
 No real users were targeted, and no real credentials were collected.
 
